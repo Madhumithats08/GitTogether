@@ -16,24 +16,24 @@ Data Visualization: Creating histograms, scatter plots, and correlation matrices
 
 Correlation Analysis: Computing and visualizing the correlation matrix to understand relationships between numerical variables.
 
-### Pre-requisites
+## Pre-requisites
 Ensure Python is installed, and the required libraries listed in the requirements.txt file are installed. You can install the libraries using the following command:
 ~~~
 pip install -r requirements.txt
 ~~~
 
-### Installation
+## Installation
 Clone the repository and navigate to the project directory:
 ~~~
 pip install -r requirements.txt
 ~~~
 
-### Usage
+## Usage
 ~~~
 python main.py
 ~~~
 
-### Expected Outcomes
+## Expected Outcomes
 
 - **Comprehensive Dataset Insights**: Obtain an in-depth understanding of global population metrics, trends over time, regional differences, and other demographic insights.
   
@@ -44,7 +44,7 @@ python main.py
 - **Foundation for Further Analysis**: Create a solid foundation for specialized analyses or predictive modeling related to population studies.
 
 
-### Features
+## Features
 
 - **Data Cleaning and Preprocessing**: Handle missing or inconsistent data, convert data types, and ensure data consistency to prepare for analysis.
 - **Descriptive Statistics**: Generate summary statistics for numeric data, such as mean, median, and standard deviation.
@@ -66,7 +66,7 @@ matplotlib
 seaborn
 ```
 
-### Team Members
+## Team Members
 
 1. Bhargav Gowda - bhargav158
 2. Madhumitha TS - Madhumithats08
